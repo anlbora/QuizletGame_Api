@@ -16,10 +16,26 @@ Welcome to the Quizlet Game Application! This is a desktop application built usi
 ## Features
 
 - **Dynamic Question Loading**: Fetches questions from the Open Trivia Database (OpenTDB).
+  
+    ![1](https://github.com/anlbora/QuizletGame_Api/assets/100442507/fb017413-6653-47bc-9d83-36a1a55d8546)
+  
 - **Multiple Question Types**: Supports both true/false and multiple-choice questions.
+  
+  ![3](https://github.com/anlbora/QuizletGame_Api/assets/100442507/642f5a4a-1f7c-4f2e-8685-0be61d1d26d9)
+  
 - **User Feedback**: Provides immediate feedback on whether the answer is correct or wrong.
+
+  ![2](https://github.com/anlbora/QuizletGame_Api/assets/100442507/25df25e4-ec47-46b4-a6ed-7db74726002e)
+
+  ![4](https://github.com/anlbora/QuizletGame_Api/assets/100442507/1c708588-41d9-4c22-88ac-f07fd2a11fb6)
+
+  ![6](https://github.com/anlbora/QuizletGame_Api/assets/100442507/20ef8778-60cd-41be-9330-ffadd4db39cb)
+
 - **Score Tracking**: Keeps track of the user's score throughout the quiz.
 - **Responsive Design**: Adjusts font sizes to ensure readability across different screen sizes.
+
+  ![5](https://github.com/anlbora/QuizletGame_Api/assets/100442507/046fa456-8c40-4326-98b7-686aa2f6bfef)
+  
 
 ## Usage
 
